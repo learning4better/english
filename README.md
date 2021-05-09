@@ -71,4 +71,16 @@ No where to go
 
 ____________________
 
+I just started or we just started ( simple )
+Ticket one day before or it might see late we use...
+ I have started or we have just started
+
+.... I have ever or never 
+I ever or never seen 
+
+It is seems to be late.
+....
+_______
+
+
    
