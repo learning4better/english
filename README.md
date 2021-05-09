@@ -40,7 +40,10 @@ Who have (plural) common use line
 
 _____________________do and did and doing and done____
 
+ Capability.  I do or I don't know
+ Confusion      I did or I didn't or have
 
+   Condition.  I or you 
 
 
    
