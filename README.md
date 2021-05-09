@@ -77,6 +77,11 @@ Ticket one day before or it might see late we use...
 
 .... I have ever or never 
 I ever or never seen 
+___________seen is confusion and seems means guess .....
+
+
+Seen' means it has been noticed by your power of sight. 'Seem' means that it appears to be but may not actually be so. e.g. 'I have seen the bus come but it seems to be a lot later than it was meant to be'.
+
 
 It is seems to be late.
 ....
