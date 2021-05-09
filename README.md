@@ -33,6 +33,9 @@ He has, she has, suri has, it has
 I or it or he or she or you or we or they or suri had
 
 
-_____________________
+_____________________do and did and doing and done____
+
+
+
 
    
