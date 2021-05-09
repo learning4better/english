@@ -89,6 +89,8 @@ Seen.  V3
 Saw.    V2
 
 Say v1. Said V2. Said v3.
+Tell v1 , told V2 , told v3
+
 
 
 ....
