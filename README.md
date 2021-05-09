@@ -61,7 +61,13 @@ Did you know about it or that
 Did you completed
 Did you started
 Did you done
+What answer did he given
+How did you know
+Where did you find this
+Who did or does
 
+No one did
+No where to go
 
 ____________________
 
