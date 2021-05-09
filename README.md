@@ -1,7 +1,8 @@
 To learninng4better
 
 
-Be v1. Example can be , will be etc
+Be v1. Example
+ can be , will be , be good, be kind, to be late
 Being V2
 Been v3 past
 Difference with being or been
