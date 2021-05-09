@@ -6,7 +6,7 @@ Be v1. Example
 Being V2
 Been v3 past
 Difference with being or been
-Been we using after have
+Been we using after have or has
 
 And also we use time , past there situation
 Like have you been to Paris. 
@@ -31,6 +31,10 @@ I have.  We have , you have ,they have ,
 He has, she has, suri has, it has
 
 I or it or he or she or you or we or they or suri had
+
+What have you done.
+Who has been  done.
+
 
 
 _____________________do and did and doing and done____
