@@ -88,6 +88,9 @@ See.   V1
 Seen.  V3
 Saw.    V2
 
+Say v1. Said V2. Said v3.
+
+
 ....
 _______.
 
