@@ -84,8 +84,12 @@ Seen' means it has been noticed by your power of sight. 'Seem' means that it app
 
 
 It is seems to be late.
+See.   V1
+Seen.  V2
+Saw.    V3
+
 ....
-_______
+_______.
 
 
    
