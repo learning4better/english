@@ -46,6 +46,23 @@ _____________________do and did and doing and done____
    Condition.  I or you or we or they ( do ) present tense
                He or she or it (does ) present tense
 
+I or we or he or she or it or you or etc. ( Did) past tense
 
+Done is past participle
+ 
+
+Interogative 
+
+This are simple tenses
+Do have a pen
+Do you know about Pak 
+Did you know about it or that
+
+Did you completed
+Did you started
+Did you done
+
+
+____________________
 
    
