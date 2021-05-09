@@ -1,11 +1,20 @@
 To learninng4better
 
+
+Be v1
+Being V2
+Been v3 past
 Difference with being or been
 Been we using after have
+
+And also we use time , past there situation
+Like have you been to Paris. 
+It's been a long time or it's been a while.
+
 Ex:-
    A) I have been completed
-Being is using after is, was ,were
+Being is using after is, was ,were,am
 Ex:-
-   B) a human being or it's being good.
+   B) a human being or being a softer, 
 
    
