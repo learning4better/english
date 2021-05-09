@@ -43,7 +43,9 @@ _____________________do and did and doing and done____
  Capability.  I do or I don't know
  Confusion      I did or I didn't or have
 
-   Condition.  I or you 
+   Condition.  I or you or we or they ( do ) present tense
+               He or she or it (does ) present tense
+
 
 
    
