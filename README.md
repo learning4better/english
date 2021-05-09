@@ -1,7 +1,7 @@
 To learninng4better
 
 
-Be v1
+Be v1. Example can be , will be etc
 Being V2
 Been v3 past
 Difference with being or been
