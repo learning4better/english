@@ -17,4 +17,9 @@ Being is using after is, was ,were,am
 Ex:-
    B) a human being or being a softer, 
 
+For being here,. Being completed, being stuck, 
+Being at this place or in this meeting
+
+https://sentence.yourdictionary.com/being
+
    
