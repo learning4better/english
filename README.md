@@ -33,8 +33,8 @@ He has, she has, suri has, it has
 I or it or he or she or you or we or they or suri had
 
 What have you done.
-Who has ( singler) often using line
-Who have (purler) common use line
+Who has ( singular) often using line
+Who have (plural) common use line
 
 
 
