@@ -1,12 +1,12 @@
 To `learninng4better`
 
 
-Be v1. Example
- can be , will be , be good, be kind, to be late
-Being V2
-Been v3 past
-Difference with being or been
-Been we using after have or has
+`Be` v1. Example <br />
+ can be , will be , be good, be kind, to be late <br />
+`Being` V2 <br />
+`Been` v3 past
+Difference with ` being` or `been`<br />
+`Been we using after have or has`
 
 And also we use time , past there situation
 Like have you been to Paris. 
