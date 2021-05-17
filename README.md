@@ -100,5 +100,21 @@ Someone tries v5
 ....
 _______.
 
+# how to use on shift or in the shift
+    if anyone ask you who is on shift
+    answer:-  i'm on the shfit    
+   or if anyone ask who is available for shift.
+   answer:- i'm avalilble now.
 
+
+------
+
+# how to use yet.
+
+      we havent started restart yet. or i havent done yet
+      
+      if anyone  we providing or email at time
+      file  :- mentioned  yet to start ( cheyalasi undi )
+      
+#  
    
