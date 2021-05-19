@@ -117,4 +117,6 @@ _______.
       file  :- mentioned  yet to start ( cheyalasi undi )
       
 #  
+
+Polity words ( gathering information)
    
