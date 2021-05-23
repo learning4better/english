@@ -121,7 +121,7 @@ _______.
 Polity words ( gathering information)
 _------------------
 
-# already and almost and just and all set
+# already and almost and just and all set and also
 
    I have already done that
 
@@ -129,6 +129,8 @@ _------------------
 
    I have just got started
    Im all set to go or started
+   I have also done
+    I also update
 
 #their how to use it we use this to say someone car like below example
 
