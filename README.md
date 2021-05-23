@@ -143,4 +143,13 @@ _------------------
    Don't use your mind 100%
    It didn't work
 
+#doing
+ -----
+    My bro doing bath
+    I'm doing my bath
+    I'm doing my homework
+     I'm doing a job
+     You are doing great
+
+
 
