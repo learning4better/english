@@ -119,4 +119,19 @@ _______.
 #  
 
 Polity words ( gathering information)
-   
+_------------------
+
+# already and almost and just and all set
+
+   I have already done that
+
+   I have almost finished that
+
+   I have just got started
+   Im all set to go or started
+
+#their how to use it we use this to say someone car like below example
+
+ This is their car
+
+
