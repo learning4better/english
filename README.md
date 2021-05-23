@@ -134,4 +134,11 @@ _------------------
 
  This is their car
 
+# To start someone to not do it.
+
+   don't do commit that
+   Don't do it
+   Don't use your mind 100%
+   It didn't work
+
 
