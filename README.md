@@ -121,7 +121,7 @@ _______.
 Polity words ( gathering information)
 _------------------
 
-# already and almost and just and all set and also and get
+# already and almost and just and all set and also and get and took or bring
 ------
    I have already done that
 
@@ -133,6 +133,13 @@ _------------------
     I also update
     We will get good day
      I will get some coins
+     I will bring some coins
+     I will bring some time
+      I will take some time
+      It took some time
+
+ 
+
 
 
 
