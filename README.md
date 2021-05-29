@@ -162,5 +162,32 @@ _------------------
      I'm doing a job
      You are doing great
 
+#once using
+----
+   Once back to home then reply to you
+   Once completed this task let you know
+   Once started application let you know
+   Once get the details will start
+
+# will short way dm
+----
+   Will do or I will do
+   Will take care or I will take care
+    Will dm you
+    We'll keep post update with details and Get back to you asap
+    We'll get back to with details asap.
+    We will keep you posted with all the update
+    
+
+# get using
+
+---
+  Can we get on  call
+  Get to know about it
+  Get a cloth
+
+
+
+
 
 
